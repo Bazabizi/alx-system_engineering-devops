@@ -1,6 +1,3 @@
 #!/bin/bash
-<<<<<<< HEAD
 PWD
-=======
-echo ${PWD}
->>>>>>> 29f08332fc6c2282606a4b36e2c1ae6304db33a0
+
